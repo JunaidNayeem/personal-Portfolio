@@ -19,11 +19,11 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
+	facebook: "https://www.facebook.com/junaid_khans",
 	instagram: "https://www.instagram.com/junaid_khans",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	twitter: "https://twitter.com/Junaid_khans7",
+	github: "https://github.com/JunaidNayeem",
+	linkedin: "https://www.linkedin.com/in/junaid-khan-51041a16a/",
 };
 
 export const skillsSection = {
@@ -60,24 +60,12 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:javascript",
 		},
 		{
-			skillName: "TypeScript",
-			fontAwesomeClassname: "logos:typescript-icon",
-		},
-		{
 			skillName: "reactjs",
 			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
 		},
 		{
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
-		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
 		},
 		{
 			skillName: "npm",
@@ -92,24 +80,12 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
 		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
-		{
-			skillName: "firebase",
-			fontAwesomeClassname: "logos:firebase",
-		},
-		{
 			skillName: "python",
 			fontAwesomeClassname: "logos:python",
 		},
 		{
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
-		},
-		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
 		},
 	],
 };
@@ -127,36 +103,41 @@ export const SkillBars = [
 		Stack: "Programming",
 		progressPercentage: "60",
 	},
+	{
+		Stack: "DataStructure & Algorithm",
+		progressPercentage:"70",
+	}
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "Sri Krishna Institute OF Technology",
+		subHeader: "Bachelor in Computer Science and Engineering",
+		duration: "August 2018 - April 2022",
+		desc: "Have done various projects and workshops ",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"An Artificial Intillegence based Attendence system",
+			" A Working startup of Grocery Delivery named KiranaOP.com",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		schoolName: "T.N.B college,Bhagalpur",
+		subHeader: "Intermediate in Science",
+		duration: "April 2016 - February 2018",
+		desc: "Attended full time Cource of PU ",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Learned and completed the syllabus of 11 & 12th,BSEB",
+			"Was the part of cultural council of my college and have performed in several functions",
 		],
 	},
 	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+		schoolName: "ST Jospeh's School,Bhagalpur",
+		subHeader: "Matriculation",
+		duration: "March 2003 - February 2016",
+		desc: " Attended Schooling from LKG to 10th ICSE",
 		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+			"Succesfully complted 10th Boards from ICSE Boards ",
+			"Have scored full marks in Computer application in ICSE Exam",
 		],
 	},
 ];
