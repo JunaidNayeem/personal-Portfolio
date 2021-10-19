@@ -1,14 +1,15 @@
 import emoji from "react-easy-emoji";
 
-import googlelogo from "./assets/img/icons/common/google.svg";
-import github from "./assets/img/icons/common/github.svg";
-import airbnb from "./assets/img/icons/common/airbnbLogo.png";
+// import googlelogo from "./assets/img/icons/common/google.svg";
+// import github from "./assets/img/icons/common/github.svg";
+ import osl from "./assets/img/icons/common/osl-logo.svg";
+ import internityLogo from "./assets/img/icons/common/Ilogo.svg"
 
 export const greetings = {
-	name: "JUNAID NAYEEM",
-	title: "Hi all, I'm Junaid",
+	name: "JUNAID",
+	title: "Hi all, I'm Junaid ",
 	description:
-		"A passionate Full Stack Web Developer and Python AI/ML Backend Developer having an experience of building Web applications with Drupal / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"A passionate Full Stack Web Developer and Python AI/ML Backend Developer having an experience of building Web applications with Drupal / HTML / Css / Nodejs / Python and some other cool libraries and frameworks and also having Experience of building AI based applications using various libraries such as OpenCV & QtDesigner.",
 	resumeLink: "https://drive.google.com/file/d/1pdXSqF5AguyfKeXz4QT7d_CwnORbzXmC/view",
 };
 
@@ -60,10 +61,6 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:javascript",
 		},
 		{
-			skillName: "reactjs",
-			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
-		},
-		{
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
@@ -74,10 +71,6 @@ export const skillsSection = {
 		{
 			skillName: "sql-database",
 			fontAwesomeClassname: "vscode-icons:file-type-sql",
-		},
-		{
-			skillName: "mongoDB",
-			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
 		{
 			skillName: "python",
@@ -144,9 +137,9 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "Google",
-		companylogo: googlelogo,
+		role: "Software Developer",
+		company: "OpenSense Labs",
+		companylogo: osl,
 		date: "June 2018 – Present",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		descBullets: [
@@ -155,16 +148,9 @@ export const experience = [
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
-		companylogo: github,
-		date: "May 2017 – May 2018",
-		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-	},
-	{
 		role: "Software Engineer Intern",
-		company: "Airbnb",
-		companylogo: airbnb,
+		company: "Internity Foundation",
+		companylogo: internityLogo,
 		date: "Jan 2015 – Sep 2015",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
@@ -172,19 +158,19 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "KiranaOP.com",
+		desc: "An Exiting ",
+		link: "https://kiranaop.com",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/JunaidNayeem",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/JunaidNayeem",
 		link: "https://example.com",
 	},
 ];
@@ -201,3 +187,4 @@ export const feedbacks = [
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
 	},
 ];
+
