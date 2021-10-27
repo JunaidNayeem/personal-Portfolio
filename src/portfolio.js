@@ -36,10 +36,10 @@ export const skillsSection = {
 			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Progressive and Responsive Web Applications full Production ready"
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+			"⚡ Integration of AI-ML software with high Quality of Usage"
 		),
 	],
 
@@ -141,10 +141,10 @@ export const experience = [
 		company: "OpenSense Labs",
 		companylogo: osl,
 		date: "June 2018 – Present",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		desc: "Website Development using Drupal 7/8/9 Technology",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Have Designed and developed various Website Front-end as well as some parts of backend",
+			"Developed fully responsive Websites with various team members of OSL and have deployed the websites to full Production",
 		],
 	},
 	{
@@ -152,39 +152,26 @@ export const experience = [
 		company: "Internity Foundation",
 		companylogo: internityLogo,
 		date: "Jan 2015 – Sep 2015",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		desc: "Data-Structure and Algorithm",
+		descBullets: [
+			"Have solved 100+ Data structure and algorithm problems during this internship",
+			"Got Opportunity to work with Awesome team of internity Foundation on a project",
+		],
 	},
 ];
 
 export const projects = [
 	{
 		name: "KiranaOP.com",
-		desc: "An Exiting ",
+		desc: "An Exiting startup of online Groceries, with some exiting and entusistic member of team who were ready to help people in the time of COVID-19 by taking the load of people from getting infected and making the Grocery reach to their door step.Have completed many succesful deliveries and also got many ideas on how to work as startup and the main thing is starting a startup in a small town with online platform rather than Metropolitian Cities",
 		link: "https://kiranaop.com",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		name: "AI-ML Attendence System",
+		desc: "A Thrilling Software which was made at that point of time where we can call it need of time.This Software basically stores all the face data of the people of the organization and when ever a particular person comes infront of the machine camera.Its captures the face data and marks the attendence if that particular person with date and time.And as it was the covid time so,Biometric and paper attendence may be harmfull.So it was the need of the time",
 		github: "https://github.com/JunaidNayeem",
-	},
-	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/JunaidNayeem",
-		link: "https://example.com",
 	},
 ];
 
-export const feedbacks = [
-	{
-		name: "Hassan Mehmood",
-		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-	},
-];
+
 

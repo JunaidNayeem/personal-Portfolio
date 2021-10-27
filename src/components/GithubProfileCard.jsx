@@ -25,6 +25,9 @@ const GithubProfileCard = ({prof}) => {
                       <p className="lead text-white mt-3">
                         DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL
                       </p>
+                      <p className="lead text-white mt-3">
+                        junaid85210@gmail.com  
+                      </p>
                       <p className="text-white mt-3">
                           {prof.bio}
                       </p>
