@@ -10,7 +10,7 @@ export const greetings = {
 	title: "Hi all, I'm Junaid ",
 	description:
 		"A passionate Full Stack Web Developer and Python AI/ML Backend Developer having an experience of building Web applications with Drupal / HTML / Css / Nodejs / Python and some other cool libraries and frameworks and also having Experience of building AI based applications using various libraries such as OpenCV & QtDesigner.",
-	resumeLink: "https://drive.google.com/file/d/1FlIrzcFZz0typkFybYN1B9_2JuvN8LnZ/view?usp=sharing",
+	resumeLink: "https://drive.google.com/file/d/1BvK8QGFA9xO5RvyOr5awoFJMIoCua2dF/view?usp=sharing",
 };
 
 export const openSource = {
