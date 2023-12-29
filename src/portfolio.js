@@ -11,7 +11,7 @@ export const greetings = {
   description:
     "A passionate Full Stack Web Developer and Python AI/ML Backend Developer having an experience of building Web applications with Drupal / HTML / Css / Nodejs / Python and some other cool libraries and frameworks and also having Experience of building AI based applications using various libraries such as OpenCV & QtDesigner.",
   resumeLink:
-    "https://drive.google.com/file/d/13-rajnrBanWcHzWkNx_oxVp8eG_Se1dg/view?usp=sharing",
+    "https://drive.google.com/file/d/1wL7dKJN5NwfkZJ8af9W8ZAmD1Ws6LDqu/view?usp=sharing",
 };
 
 export const openSource = {
